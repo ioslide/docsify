@@ -1,6 +1,6 @@
 ![logo](_media/icon.svg)
 
-# docsify <small>4.9.1</small>
+# ucraftMusic <small>4.9.1</small>
 
 > A magical documentation site generator.
 
